@@ -1,0 +1,5 @@
+In case of referencing issues:
+
+Some parts indicated by -1 in the Components_derived folder are derived from the Components_underived folder. Use the Components_underived folder to resolve referencing issues. For the final suspension assembly file, use the Components_derived file itself to resolve referencing issues. 
+
+Thank You.
